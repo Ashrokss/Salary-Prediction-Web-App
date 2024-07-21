@@ -6,10 +6,6 @@ Welcome to the **Salary Prediction Web App** repository! This project leverages 
 
 You can try out the live app [here](https://salary-prediction-web-app-ypsqpjmchokzoeuzp5k884.streamlit.app/).
 
-## 📂 GitHub Repository
-
-Explore the source code and contribute to the project [here](https://github.com/Ashrokss/Salary-Prediction-Web-App).
-
 ## 🛠️ Features
 
 - **Interactive Web Interface:** Built using Streamlit for an intuitive user experience.
